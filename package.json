@@ -247,7 +247,7 @@
     "octonode": "0.9.5",
     "patch-package": "^6.2.2",
     "prettier": "1.16.4",
-    "react-dom": "16.8.4",
+    "react-dom": "16.13.1",
     "react-native-cli": "2.0.1",
     "react-test-renderer": "16.13.1",
     "regenerator-runtime": "0.13.1",
